@@ -27,9 +27,6 @@ Below is a screenshots of the Dashboard:
 
 ![ip-check](https://github.com/user-attachments/assets/667a90c7-f41d-4062-aa3d-748f22d277a3)
 
-![references](https://github.com/user-attachments/assets/4b538052-436d-446d-9f8c-3de828a402e6)
-
-
 
 ## Project Structure
 

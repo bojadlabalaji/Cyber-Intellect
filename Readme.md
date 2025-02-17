@@ -3,9 +3,6 @@
 
 Cyber-Intellect is a comprehensive cyber threat dashboard designed to provide real-time monitoring and analysis of cybersecurity events. It features various tools and components to help users stay informed about the latest threats, including live feeds, abuse checks, and breach data.
 
-## Dashboard Screenshots
-
-Below is a screenshots of the Dashboard:
 
 ## Features
 
@@ -16,6 +13,23 @@ Below is a screenshots of the Dashboard:
 - **Who Have Been Pwned:** Check compromised websites and accounts.
 - **IP Abuse Check:** Identify and report abusive IP addresses.
 - **Resources:** Access a collection of useful cybersecurity tools and resources.
+
+## Dashboard Screenshots
+
+Below is a screenshots of the Dashboard:
+![lading page](https://github.com/user-attachments/assets/92438ebd-b527-4cc5-ad5b-4d522b384ada)
+
+![worldmap hover](https://github.com/user-attachments/assets/461c332a-2d5e-4bf7-93b0-c8f7cdd0ff49)
+
+![live threads](https://github.com/user-attachments/assets/a61d44e7-4930-47d7-8794-0c31c0ffc171)
+
+![sortable wesite list](https://github.com/user-attachments/assets/4b9d6132-cc99-470c-a4ce-60649880728e)
+
+![ip-check](https://github.com/user-attachments/assets/667a90c7-f41d-4062-aa3d-748f22d277a3)
+
+![references](https://github.com/user-attachments/assets/4b538052-436d-446d-9f8c-3de828a402e6)
+
+
 
 ## Project Structure
 

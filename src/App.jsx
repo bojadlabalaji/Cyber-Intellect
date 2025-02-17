@@ -25,7 +25,7 @@ function App() {
     <Provider store={store}>
       <ThemeProvider theme={currentTheme === 'dark' ? darkTheme : lightTheme}>
         <CssBaseline />
-        <Router future={{ 
+        <Router basename="/Cyber-Intellect" future={{ 
           v7_startTransition: true,
           v7_relativeSplatPath: true 
         }}>

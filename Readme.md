@@ -3,6 +3,10 @@
 
 Cyber-Intellect is a comprehensive cyber threat dashboard designed to provide real-time monitoring and analysis of cybersecurity events. It features various tools and components to help users stay informed about the latest threats, including live feeds, abuse checks, and breach data.
 
+## Dashboard Screenshots
+
+Below is a screenshots of the Dashboard:
+
 ## Features
 
 - **Dashboard:** View an overview of the latest cyber threats and statistics.
@@ -16,11 +20,6 @@ Cyber-Intellect is a comprehensive cyber threat dashboard designed to provide re
 ## Project Structure
 
 ```
-.gitignore
-eslint.config.js
-index.html
-package.json
-Readme.md
 public/
 src/
   ├── App.css
@@ -51,6 +50,10 @@ src/
   ├── store/
   ├── theme.js
   └── utils/
+eslint.config.js
+index.html
+package.json
+Readme.md
 vite.config.js
 
 

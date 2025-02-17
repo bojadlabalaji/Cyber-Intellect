@@ -38,7 +38,7 @@ function About() {
   const teamMembers = [
     {
       name: 'Balaji Bojadla',
-      role: 'Full Stack Developer',
+      role: 'Full Stack Developer, Team Lead',
       title: 'Graduate Student',
       university: 'University of Cincinnati',
       description: 'Specializing in Data-Driven Cybersecurity and Full Stack Development',

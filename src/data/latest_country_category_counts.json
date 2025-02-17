@@ -1,0 +1,836 @@
+{
+    "Afghanistan": {
+        "Critical infrastructure": 3,
+        "Social groups": 3,
+        "political system": 1
+    },
+    "Africa": {
+        "Critical infrastructure": 2,
+        "supranational organization": 1
+    },
+    "Albania": {
+        "political system": 3
+    },
+    "Algeria": {
+        "political system": 1
+    },
+    "Angola": {
+        "Critical infrastructure": 1,
+        "political system": 4
+    },
+    "Argentina": {
+        "Critical infrastructure": 1,
+        "Media": 1,
+        "political system": 13,
+        "Education": 1,
+        "Social groups": 1
+    },
+    "Armenia": {
+        "Other": 1,
+        "political system": 1,
+        "supranational organization": 1
+    },
+    "Asia (region)": {
+        "Corporate Targets": 1,
+        "Critical infrastructure": 2,
+        "Science": 1,
+        "political system": 3,
+        "Unknown": 1
+    },
+    "Australia": {
+        "Corporate Targets": 3,
+        "Critical infrastructure": 16,
+        "Media": 1,
+        "political system": 3,
+        "Education": 2,
+        "Science": 1,
+        "Unknown": 1
+    },
+    "Austria": {
+        "specially protected groups": 1,
+        "Critical infrastructure": 1,
+        "supranational organization": 1,
+        "political system": 6,
+        "Education": 1
+    },
+    "Azerbaijan": {
+        "specially protected groups": 1,
+        "Media": 2,
+        "Social groups": 1,
+        "political system": 1,
+        "Critical infrastructure": 1,
+        "Science": 1
+    },
+    "Bahrain": {
+        "Critical infrastructure": 1
+    },
+    "Bangladesh": {
+        "Critical infrastructure": 1,
+        "political system": 1,
+        "Other": 1
+    },
+    "Belarus": {
+        "Critical infrastructure": 2,
+        "political system": 3
+    },
+    "Belgium": {
+        "Critical infrastructure": 10,
+        "Education": 2,
+        "supranational organization": 1,
+        "Media": 1,
+        "political system": 10
+    },
+    "Bermuda": {
+        "political system": 1
+    },
+    "Bolivia": {
+        "Media": 1,
+        "political system": 1
+    },
+    "Bosnia and Herzegovina": {
+        "political system": 1,
+        "Critical infrastructure": 1
+    },
+    "Brazil": {
+        "Critical infrastructure": 3,
+        "political system": 10
+    },
+    "Bulgaria": {
+        "political system": 3
+    },
+    "Cambodia": {
+        "political system": 3,
+        "Science": 1,
+        "Critical infrastructure": 1,
+        "Corporate Targets": 1,
+        "Media": 1,
+        "Unknown": 1
+    },
+    "Cameroon": {
+        "Critical infrastructure": 1
+    },
+    "Canada": {
+        "Corporate Targets": 2,
+        "Critical infrastructure": 1,
+        "Education": 3,
+        "specially protected groups": 1,
+        "Media": 1,
+        "Social groups": 1,
+        "political system": 2,
+        "Science": 1
+    },
+    "Central America (region)": {
+        "Corporate Targets": 1
+    },
+    "Central Asia (region)": {
+        "political system": 1,
+        "Corporate Targets": 1
+    },
+    "Chile": {
+        "Critical infrastructure": 1,
+        "political system": 1
+    },
+    "China": {
+        "Corporate Targets": 1,
+        "Critical infrastructure": 1,
+        "Other": 1,
+        "Social groups": 9,
+        "specially protected groups": 1,
+        "political system": 2,
+        "Science": 1,
+        "Education": 2
+    },
+    "Colombia": {
+        "Critical infrastructure": 5,
+        "political system": 1
+    },
+    "Congo, the Democratic Republic of the": {
+        "Unknown": 1
+    },
+    "Croatia": {
+        "Critical infrastructure": 2,
+        "political system": 1,
+        "supranational organization": 1
+    },
+    "Cuba": {
+        "political system": 1
+    },
+    "Cyprus": {
+        "political system": 1,
+        "Education": 1
+    },
+    "Czech Republic": {
+        "political system": 1
+    },
+    "Denmark": {
+        "Other": 1,
+        "Critical infrastructure": 1,
+        "supranational organization": 1,
+        "political system": 4
+    },
+    "Dominica": {
+        "political system": 1
+    },
+    "Dominican Republic": {
+        "Media": 1,
+        "political system": 2
+    },
+    "EU (institutions)": {
+        "supranational organization": 6
+    },
+    "EU (region)": {
+        "political system": 1
+    },
+    "Eastern Asia (region)": {
+        "Critical infrastructure": 1
+    },
+    "Eastern Europe": {
+        "Critical infrastructure": 1,
+        "Corporate Targets": 1,
+        "Science": 1,
+        "Unknown": 1
+    },
+    "Ecuador": {
+        "political system": 2
+    },
+    "Egypt": {
+        "specially protected groups": 1,
+        "Media": 1,
+        "political system": 5,
+        "Critical infrastructure": 1
+    },
+    "El Salvador": {
+        "Social groups": 1,
+        "political system": 1
+    },
+    "Estonia": {
+        "Critical infrastructure": 1,
+        "political system": 4,
+        "Corporate Targets": 1,
+        "Media": 1
+    },
+    "Ethiopia": {
+        "political system": 1
+    },
+    "Europe (region)": {
+        "Critical infrastructure": 1,
+        "political system": 4,
+        "Corporate Targets": 1,
+        "Unknown": 1
+    },
+    "Finland": {
+        "Critical infrastructure": 1,
+        "Social groups": 1,
+        "political system": 6
+    },
+    "France": {
+        "Corporate Targets": 1,
+        "Critical infrastructure": 1,
+        "Education": 1,
+        "supranational organization": 1,
+        "Media": 3,
+        "Social groups": 1,
+        "political system": 4,
+        "Other": 1,
+        "Unknown": 1
+    },
+    "Gabon": {
+        "political system": 3
+    },
+    "Georgia": {
+        "Critical infrastructure": 1,
+        "political system": 2,
+        "Media": 1
+    },
+    "Germany": {
+        "Corporate Targets": 3,
+        "Critical infrastructure": 1,
+        "Science": 1,
+        "supranational organization": 1,
+        "Media": 2,
+        "Social groups": 1,
+        "political system": 2,
+        "Education": 4
+    },
+    "Global (region)": {
+        "Corporate Targets": 2,
+        "specially protected groups": 3,
+        "Critical infrastructure": 1,
+        "Other": 1,
+        "supranational organization": 1,
+        "Social groups": 1,
+        "political system": 1
+    },
+    "Greece": {
+        "Corporate Targets": 1,
+        "Media": 1,
+        "political system": 2,
+        "Other": 1
+    },
+    "Grenada": {
+        "Critical infrastructure": 1
+    },
+    "Guatemala": {
+        "Media": 1,
+        "political system": 1
+    },
+    "Guinea": {
+        "Critical infrastructure": 1
+    },
+    "Guyana": {
+        "political system": 1
+    },
+    "Holy See (Vatican City State)": {
+        "political system": 1,
+        "Critical infrastructure": 1
+    },
+    "Honduras": {
+        "political system": 1,
+        "Corporate Targets": 1
+    },
+    "Hong Kong": {
+        "Critical infrastructure": 3,
+        "specially protected groups": 1,
+        "Science": 1,
+        "Social groups": 2,
+        "political system": 3,
+        "Education": 1
+    },
+    "Hungary": {
+        "political system": 1
+    },
+    "ISIS": {
+        "Social groups": 2
+    },
+    "Iceland": {
+        "Other": 1,
+        "Education": 1,
+        "political system": 1
+    },
+    "India": {
+        "Corporate Targets": 2,
+        "specially protected groups": 2,
+        "Other": 2,
+        "Critical infrastructure": 1,
+        "Media": 1,
+        "supranational organization": 1,
+        "political system": 7,
+        "Education": 1,
+        "Science": 1
+    },
+    "Indonesia": {
+        "Critical infrastructure": 2,
+        "supranational organization": 1,
+        "political system": 1,
+        "Corporate Targets": 1
+    },
+    "International Association of Athletics Federations": {
+        "supranational organization": 1
+    },
+    "Interpol": {
+        "supranational organization": 1
+    },
+    "Iran, Islamic Republic of": {
+        "Critical infrastructure": 1,
+        "specially protected groups": 1,
+        "Media": 1,
+        "Social groups": 1,
+        "political system": 1,
+        "Science": 1
+    },
+    "Ireland": {
+        "Critical infrastructure": 1,
+        "political system": 2
+    },
+    "Israel": {
+        "Corporate Targets": 1,
+        "Media": 5,
+        "Critical infrastructure": 1,
+        "Science": 1,
+        "Education": 1,
+        "specially protected groups": 1,
+        "Other": 1,
+        "political system": 1,
+        "Unknown": 9
+    },
+    "Italy": {
+        "Corporate Targets": 1,
+        "Critical infrastructure": 1,
+        "Science": 1,
+        "political system": 2,
+        "Education": 1
+    },
+    "Japan": {
+        "Corporate Targets": 1,
+        "specially protected groups": 1,
+        "Critical infrastructure": 1,
+        "Media": 1,
+        "political system": 1,
+        "Education": 2,
+        "Unknown": 1
+    },
+    "Jordan": {
+        "political system": 1
+    },
+    "Kazakhstan": {
+        "Media": 1,
+        "Other": 1
+    },
+    "Kenya": {
+        "political system": 2
+    },
+    "Korea, Democratic People's Republic of": {
+        "Corporate Targets": 1,
+        "Media": 1,
+        "Other": 1,
+        "political system": 1
+    },
+    "Korea, Republic of": {
+        "Corporate Targets": 1,
+        "Media": 1,
+        "Critical infrastructure": 1,
+        "specially protected groups": 3,
+        "Education": 1,
+        "supranational organization": 1,
+        "Science": 1,
+        "political system": 3,
+        "Other": 1,
+        "Unknown": 2
+    },
+    "Kosovo": {
+        "political system": 1
+    },
+    "Kuwait": {
+        "political system": 1,
+        "Critical infrastructure": 1
+    },
+    "Kyrgyzstan": {
+        "Critical infrastructure": 1,
+        "Media": 1
+    },
+    "Laos": {
+        "Critical infrastructure": 1
+    },
+    "Latvia": {
+        "Media": 1,
+        "political system": 2
+    },
+    "Lebanon": {
+        "Critical infrastructure": 4,
+        "Corporate Targets": 1,
+        "political system": 2
+    },
+    "Libya": {
+        "Media": 1,
+        "political system": 1,
+        "Critical infrastructure": 1
+    },
+    "Liechtenstein": {
+        "political system": 1
+    },
+    "Lithuania": {
+        "Critical infrastructure": 3,
+        "political system": 2,
+        "Corporate Targets": 1,
+        "Education": 1
+    },
+    "Luxembourg": {
+        "political system": 1,
+        "Corporate Targets": 1
+    },
+    "Malawi": {
+        "political system": 1
+    },
+    "Malaysia": {
+        "Critical infrastructure": 1,
+        "Education": 1,
+        "political system": 3,
+        "Social groups": 1
+    },
+    "Maldives": {
+        "political system": 2
+    },
+    "Malta": {
+        "Media": 1
+    },
+    "Martinique": {
+        "political system": 1
+    },
+    "Mena Region (region)": {
+        "Critical infrastructure": 1,
+        "political system": 1,
+        "Unknown": 1
+    },
+    "Mexico": {
+        "Critical infrastructure": 4,
+        "Education": 1,
+        "Media": 1,
+        "political system": 1,
+        "Corporate Targets": 1
+    },
+    "Middle East (region)": {
+        "Critical infrastructure": 1,
+        "political system": 8,
+        "Other": 1,
+        "Unknown": 1
+    },
+    "Moldova, Republic of": {
+        "political system": 2
+    },
+    "Mongolia": {
+        "political system": 3
+    },
+    "Montenegro": {
+        "political system": 1,
+        "Media": 1
+    },
+    "Morocco": {
+        "Media": 3,
+        "Social groups": 1
+    },
+    "Myanmar": {
+        "political system": 1,
+        "Critical infrastructure": 1,
+        "Corporate Targets": 1
+    },
+    "NATO (institutions)": {
+        "supranational organization": 1
+    },
+    "Namibia": {
+        "Media": 1
+    },
+    "Nauru": {
+        "Critical infrastructure": 1
+    },
+    "Netherlands": {
+        "Corporate Targets": 2,
+        "Critical infrastructure": 1,
+        "supranational organization": 1,
+        "Media": 1,
+        "Social groups": 1,
+        "political system": 5
+    },
+    "New Caledonia": {
+        "Critical infrastructure": 3,
+        "political system": 1
+    },
+    "New Zealand": {
+        "Corporate Targets": 1,
+        "Critical infrastructure": 2,
+        "political system": 1,
+        "Education": 1
+    },
+    "Nigeria": {
+        "Social groups": 1,
+        "political system": 6
+    },
+    "Norway": {
+        "Corporate Targets": 1,
+        "Critical infrastructure": 1,
+        "political system": 1
+    },
+    "Not available": {
+        "Corporate Targets": 2,
+        "Critical infrastructure": 2,
+        "Other": 1,
+        "specially protected groups": 3,
+        "Media": 1,
+        "Not available": 9,
+        "Social groups": 4,
+        "political system": 1,
+        "Unknown": 13
+    },
+    "Oceania (region)": {
+        "supranational organization": 1
+    },
+    "Pakistan": {
+        "Corporate Targets": 1,
+        "Critical infrastructure": 1,
+        "supranational organization": 1,
+        "political system": 4,
+        "Science": 1,
+        "Media": 1,
+        "Social groups": 1,
+        "Unknown": 1
+    },
+    "Palau": {
+        "political system": 1
+    },
+    "Palestine": {
+        "Critical infrastructure": 3,
+        "specially protected groups": 1,
+        "political system": 1,
+        "Unknown": 1
+    },
+    "Panama": {
+        "Social groups": 1
+    },
+    "Paraguay": {
+        "political system": 2
+    },
+    "Peru": {
+        "Critical infrastructure": 1,
+        "political system": 5
+    },
+    "Philippines": {
+        "Corporate Targets": 1,
+        "Critical infrastructure": 2,
+        "Media": 1,
+        "political system": 2,
+        "Science": 1
+    },
+    "Poland": {
+        "Critical infrastructure": 2,
+        "Social groups": 1,
+        "political system": 5,
+        "Corporate Targets": 1,
+        "Media": 1
+    },
+    "Portugal": {
+        "Critical infrastructure": 3,
+        "political system": 3
+    },
+    "Puerto Rico": {
+        "Critical infrastructure": 2,
+        "political system": 4
+    },
+    "Qatar": {
+        "Corporate Targets": 1,
+        "Media": 4,
+        "political system": 1
+    },
+    "Romania": {
+        "political system": 1
+    },
+    "Russia": {
+        "Corporate Targets": 1,
+        "Critical infrastructure": 1,
+        "Education": 1,
+        "supranational organization": 1,
+        "Media": 1,
+        "Not available": 1,
+        "Other": 1,
+        "Science": 2,
+        "Social groups": 7,
+        "political system": 3,
+        "specially protected groups": 1,
+        "Unknown": 1
+    },
+    "R\u00e9union": {
+        "political system": 1
+    },
+    "Saudi Arabia": {
+        "Critical infrastructure": 1,
+        "specially protected groups": 1,
+        "Not available": 1,
+        "political system": 1,
+        "Corporate Targets": 1
+    },
+    "Senegal": {
+        "political system": 3
+    },
+    "Serbia": {
+        "Critical infrastructure": 1
+    },
+    "Seychelles": {
+        "Critical infrastructure": 4
+    },
+    "Singapore": {
+        "Corporate Targets": 1,
+        "Critical infrastructure": 1,
+        "Science": 1,
+        "political system": 1
+    },
+    "Slovakia": {
+        "political system": 3,
+        "Education": 1
+    },
+    "Slovenia": {
+        "Critical infrastructure": 1
+    },
+    "South Africa": {
+        "Media": 1,
+        "Critical infrastructure": 5,
+        "political system": 3,
+        "Education": 1
+    },
+    "South America": {
+        "Critical infrastructure": 1,
+        "political system": 1
+    },
+    "South Asia (region)": {
+        "Critical infrastructure": 1,
+        "political system": 1
+    },
+    "Southeast Asia (region)": {
+        "Corporate Targets": 1,
+        "Critical infrastructure": 1,
+        "supranational organization": 1,
+        "political system": 1
+    },
+    "Spain": {
+        "Corporate Targets": 1,
+        "Critical infrastructure": 1,
+        "Education": 1,
+        "specially protected groups": 1,
+        "political system": 2
+    },
+    "Sri Lanka": {
+        "political system": 2,
+        "Media": 1
+    },
+    "St. Vincent and the Grenadines": {
+        "Critical infrastructure": 1
+    },
+    "Sweden": {
+        "specially protected groups": 1,
+        "Other": 1,
+        "Media": 1,
+        "Critical infrastructure": 7,
+        "Social groups": 1,
+        "political system": 3
+    },
+    "Switzerland": {
+        "Critical infrastructure": 1,
+        "supranational organization": 1,
+        "political system": 7,
+        "Education": 3
+    },
+    "Syria": {
+        "Critical infrastructure": 1,
+        "Social groups": 2,
+        "specially protected groups": 1,
+        "political system": 9,
+        "Corporate Targets": 1
+    },
+    "Taiwan": {
+        "Corporate Targets": 1,
+        "Critical infrastructure": 1,
+        "political system": 1,
+        "Media": 1,
+        "Unknown": 1
+    },
+    "Thailand": {
+        "political system": 2,
+        "Unknown": 1
+    },
+    "Togo": {
+        "Social groups": 1
+    },
+    "Tonga": {
+        "Critical infrastructure": 1
+    },
+    "Trinidad and Tobago": {
+        "political system": 1
+    },
+    "Tunisia": {
+        "specially protected groups": 1,
+        "political system": 1
+    },
+    "Turkey": {
+        "Corporate Targets": 1,
+        "Other": 1,
+        "Critical infrastructure": 1,
+        "Science": 1,
+        "political system": 1,
+        "supranational organization": 1
+    },
+    "Turkmenistan": {
+        "political system": 1
+    },
+    "UNICEF": {
+        "supranational organization": 1
+    },
+    "Uganda": {
+        "political system": 2
+    },
+    "Ukraine": {
+        "Corporate Targets": 1,
+        "Media": 1,
+        "Critical infrastructure": 1,
+        "Other": 1,
+        "specially protected groups": 1,
+        "Social groups": 1,
+        "political system": 1,
+        "Unknown": 7
+    },
+    "United Arab Emirates": {
+        "Corporate Targets": 1,
+        "Science": 1,
+        "Critical infrastructure": 1,
+        "Media": 1,
+        "political system": 2
+    },
+    "United Kingdom": {
+        "Corporate Targets": 1,
+        "Critical infrastructure": 20,
+        "Education": 13,
+        "Media": 7,
+        "Social groups": 3,
+        "Science": 1,
+        "political system": 1
+    },
+    "United Nations": {
+        "supranational organization": 3
+    },
+    "United Nations Organization": {
+        "supranational organization": 2
+    },
+    "United States": {
+        "Corporate Targets": 1,
+        "specially protected groups": 2,
+        "Media": 1,
+        "political system": 12,
+        "Critical infrastructure": 1,
+        "Education": 2,
+        "Other": 1,
+        "supranational organization": 4,
+        "Science": 1,
+        "Social groups": 18,
+        "Unknown": 4
+    },
+    "Unknown": {
+        "Corporate Targets": 2,
+        "Critical infrastructure": 1,
+        "specially protected groups": 1,
+        "Media": 1,
+        "Other": 1,
+        "Science": 1,
+        "Social groups": 13,
+        "political system": 3,
+        "Unknown": 4
+    },
+    "Uruguay": {
+        "political system": 4
+    },
+    "Uzbekistan": {
+        "Media": 1
+    },
+    "Venezuela": {
+        "Critical infrastructure": 1,
+        "political system": 2
+    },
+    "Vietnam": {
+        "Corporate Targets": 1,
+        "Critical infrastructure": 1,
+        "Social groups": 1,
+        "political system": 5
+    },
+    "Virgin Islands, British": {
+        "Critical infrastructure": 1
+    },
+    "Western Europe": {
+        "Corporate Targets": 1
+    },
+    "World Anti-Doping Agency": {
+        "supranational organization": 1
+    },
+    "Yemen": {
+        "Other": 1,
+        "Social groups": 1,
+        "political system": 2
+    },
+    "Zimbabwe": {
+        "political system": 1
+    }
+}
